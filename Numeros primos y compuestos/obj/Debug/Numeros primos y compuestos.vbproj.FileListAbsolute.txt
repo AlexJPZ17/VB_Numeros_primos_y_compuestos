@@ -1,0 +1,20 @@
+C:\Users\Alex\AppData\Local\Temporary Projects\Numeros primos y compuestos\bin\Debug\Numeros primos y compuestos.exe.config
+C:\Users\Alex\AppData\Local\Temporary Projects\Numeros primos y compuestos\bin\Debug\Numeros primos y compuestos.exe
+C:\Users\Alex\AppData\Local\Temporary Projects\Numeros primos y compuestos\bin\Debug\Numeros primos y compuestos.pdb
+C:\Users\Alex\AppData\Local\Temporary Projects\Numeros primos y compuestos\bin\Debug\Numeros primos y compuestos.xml
+C:\Users\Alex\AppData\Local\Temporary Projects\Numeros primos y compuestos\obj\Debug\Numeros_primos_y_compuestos.Form1.resources
+C:\Users\Alex\AppData\Local\Temporary Projects\Numeros primos y compuestos\obj\Debug\Numeros_primos_y_compuestos.Resources.resources
+C:\Users\Alex\AppData\Local\Temporary Projects\Numeros primos y compuestos\obj\Debug\Numeros primos y compuestos.vbproj.GenerateResource.Cache
+C:\Users\Alex\AppData\Local\Temporary Projects\Numeros primos y compuestos\obj\Debug\Numeros primos y compuestos.exe
+C:\Users\Alex\AppData\Local\Temporary Projects\Numeros primos y compuestos\obj\Debug\Numeros primos y compuestos.xml
+C:\Users\Alex\AppData\Local\Temporary Projects\Numeros primos y compuestos\obj\Debug\Numeros primos y compuestos.pdb
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Numeros primos y compuestos\Numeros primos y compuestos\bin\Debug\Numeros primos y compuestos.exe.config
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Numeros primos y compuestos\Numeros primos y compuestos\obj\Debug\Numeros primos y compuestos.exe
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Numeros primos y compuestos\Numeros primos y compuestos\obj\Debug\Numeros primos y compuestos.xml
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Numeros primos y compuestos\Numeros primos y compuestos\obj\Debug\Numeros primos y compuestos.pdb
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Numeros primos y compuestos\Numeros primos y compuestos\bin\Debug\Numeros primos y compuestos.exe
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Numeros primos y compuestos\Numeros primos y compuestos\bin\Debug\Numeros primos y compuestos.pdb
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Numeros primos y compuestos\Numeros primos y compuestos\bin\Debug\Numeros primos y compuestos.xml
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Numeros primos y compuestos\Numeros primos y compuestos\obj\Debug\Numeros_primos_y_compuestos.Form1.resources
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Numeros primos y compuestos\Numeros primos y compuestos\obj\Debug\Numeros_primos_y_compuestos.Resources.resources
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Numeros primos y compuestos\Numeros primos y compuestos\obj\Debug\Numeros primos y compuestos.vbproj.GenerateResource.Cache
